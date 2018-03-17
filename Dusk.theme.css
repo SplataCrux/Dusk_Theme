@@ -1,0 +1,69 @@
+//META{"name":"Dusk","description":"Dusk Theme","author":"SplataCrux-DevilsTheAvenged","version":"1.0"}*//{}
+
+.channels-3g2vYe {
+    background-color: rgba(0,0,0,0);
+}
+.container-RYiLUQ {
+    background-color:  transparent;
+}
+ /* fix not having a background image anymore */
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
+/* optionally adjust background brightness (0: original image, 1: black) */
+.layers-20RVFW {
+  background: rgba(0,0,0, 0.4) !important;
+}
+.container-2OU7Cz {
+    background-color:  rgba(0,0,0,0);
+}
+.theme-dark .layer, .theme-dark .layers {
+    background: transparent;
+}
+.guilds-wrapper {
+    background-color: transparent;
+}
+.theme-dark .chat form .typing {
+    background-color: transparent;
+}
+.theme-dark .chat form {
+    background-color: transparent;
+    box-shadow: none;
+}
+.theme-dark .chat>.content {
+    background-color: transparent;
+}
+.theme-dark .chat {
+    background-color: transparent;
+}
+
+.theme-dark .friends-table, .theme-dark .messages-wrapper {
+    background-color: transparent;
+}
+.theme-dark .channel-members {
+    background-color: transparent;
+}
+.theme-dark .title-qAcLxz {
+    background: transparent;
+    box-shadow: none;
+}
+.theme-dark #friends {
+    background-color: transparent;
+}
+.theme-dark .headerBar-cxbhPD {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .content-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view .sidebar-region {
+    background: transparent;
+}
+.theme-dark .ui-standard-sidebar-view {
+    background: transparent;
+}
+.app {
+	background-image: url("https://cdn.discordapp.com/attachments/413063743422070786/424677977192792094/v3jg0-wallpapers-041512198-1920x1080.jpg");
+	background-size: cover !important;
+	background-position: center !important;
+}
